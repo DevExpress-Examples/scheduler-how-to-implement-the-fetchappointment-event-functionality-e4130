@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 8.5" name="SchedulingDataClasses">
+  <DataContextMoniker Name="/SchedulingDataClassesDataContext" />
+  <nestedChildShapes>
+    <classShape Id="e842cccd-ff77-42fc-b9d1-93d1e6b2f789" absoluteBounds="1, 0.5, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/SchedulingDataClassesDataContext/DBAppointment" />
+      <nestedChildShapes>
+        <elementListCompartment Id="f67026fc-6156-4728-b58d-256a8320c4b0" absoluteBounds="1.0150000000000001, 0.96, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7e7126cd-0e0a-43a4-9194-866b0995a6db" absoluteBounds="4.25, 1.5, 2, 1.9631982421875">
+      <DataClassMoniker Name="/SchedulingDataClassesDataContext/DBResource" />
+      <nestedChildShapes>
+        <elementListCompartment Id="be270796-6f45-41d0-b5fc-08ffbbbb7484" absoluteBounds="4.265, 1.96, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
