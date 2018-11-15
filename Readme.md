@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [SchedulerDataHelper.cs](./CS/DevExpressMvcSchedulerFetchAppointments/Models/SchedulerDataHelper.cs)
+* [SchedulerSettingsHelper.cs](./CS/DevExpressMvcSchedulerFetchAppointments/Models/SchedulerSettingsHelper.cs)
+* [SchedulingDataClasses.cs](./CS/DevExpressMvcSchedulerFetchAppointments/Models/SchedulingDataClasses.cs)
+* [SchedulerPartial.cshtml](./CS/DevExpressMvcSchedulerFetchAppointments/Views/Home/SchedulerPartial.cshtml)
+<!-- default file list end -->
 # Scheduler - How to implement the FetchAppointment event functionality
 
 
