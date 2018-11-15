@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/DevExpressMvcSchedulerFetchAppointments/Controllers/HomeController.cs) (VB: [HomeController.vb](./VB/DevExpressMvcSchedulerFetchAppointments/Controllers/HomeController.vb))
+* [SchedulerDataHelper.cs](./CS/DevExpressMvcSchedulerFetchAppointments/Models/SchedulerDataHelper.cs) (VB: [SchedulerDataHelper.vb](./VB/DevExpressMvcSchedulerFetchAppointments/Models/SchedulerDataHelper.vb))
+* [SchedulerSettingsHelper.cs](./CS/DevExpressMvcSchedulerFetchAppointments/Models/SchedulerSettingsHelper.cs) (VB: [SchedulerSettingsHelper.vb](./VB/DevExpressMvcSchedulerFetchAppointments/Models/SchedulerSettingsHelper.vb))
+* [SchedulingDataClasses.cs](./CS/DevExpressMvcSchedulerFetchAppointments/Models/SchedulingDataClasses.cs) (VB: [SchedulingDataClasses.vb](./VB/DevExpressMvcSchedulerFetchAppointments/Models/SchedulingDataClasses.vb))
+<!-- default file list end -->
 # Scheduler - How to implement the FetchAppointment event functionality
 
 
